@@ -11,7 +11,7 @@ Fork this skeleton project or create your own project to make it complete as fol
 * download images in an asynchronous way
 * add more test cases for user codes
 
-You may use best Android practices to meet the requirements and modern open source libraries (networking, parser, event, etc) for better architecture are perferrable.
+You may use best Android practices to meet the requirements and modern open source libraries (networking, parser, event, etc) are preferrable for better app architecture.
 
 The UI will look like this:
 
